@@ -13,6 +13,7 @@
   <packaging>pom</packaging>
   <modules>
     <module>hdfs-code</module>
+    <module>mr-code</module>
   </modules>
 
   <properties>
