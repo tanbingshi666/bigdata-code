@@ -11,6 +11,7 @@
   <modules>
     <module>hadoop-code</module>
     <module>zookeeper-code</module>
+    <module>data-warehouse-offline</module>
   </modules>
 
   <properties>
