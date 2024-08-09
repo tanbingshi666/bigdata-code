@@ -12,6 +12,7 @@
     <module>hadoop-code</module>
     <module>zookeeper-code</module>
     <module>data-warehouse-offline</module>
+    <module>anltr4-code</module>
   </modules>
 
   <properties>
